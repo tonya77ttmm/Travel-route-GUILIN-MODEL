@@ -132,6 +132,54 @@ header {
     ),
     url(../img/liangjiang.jpg);
 }
+.card-img-6 {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(208, 241, 231, 0.315),
+      rgba(231, 248, 243, 0.119)
+    ),
+    url(../img/ganhai.jpg);
+}
+.card-img-7 {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(208, 241, 231, 0.315),
+      rgba(231, 248, 243, 0.119)
+    ),
+    url(../img/beihai2.jpg);
+}
+.card-img-8 {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(208, 241, 231, 0.315),
+      rgba(231, 248, 243, 0.119)
+    ),
+    url(../img/sunset.jpg);
+}
+.card-img-9 {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(208, 241, 231, 0.315),
+      rgba(231, 248, 243, 0.119)
+    ),
+    url(../img/pubu.jpg);
+}
+.card-img-10 {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(208, 241, 231, 0.315),
+      rgba(231, 248, 243, 0.119)
+    ),
+    url(../img/longhushan.jpg);
+}
+.card-img-11 {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(208, 241, 231, 0.315),
+      rgba(231, 248, 243, 0.119)
+    ),
+    url(../img/shuangta.png);
+}
 
 .budget-table th:nth-child(1) {
   width: 50%;
