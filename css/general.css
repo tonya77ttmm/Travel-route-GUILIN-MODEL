@@ -1,7 +1,7 @@
 /* container */
 .container {
-  max-width: 130rem;
-  padding: 6.4rem 4.8rem 4.8rem 4.8rem;
+  max-width: 140rem;
+  padding: 20rem 4.8rem 4.8rem 4.8rem;
   margin: 0 auto;
 }
 .table-container {
@@ -23,7 +23,7 @@
 }
 .primary-heading {
   margin-bottom: 4.8rem;
-  font-size: 6.4rem;
+  font-size: 9.6rem;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -39,11 +39,11 @@
   border: none;
   background: none;
   border-radius: 1rem;
-  padding: 1.2rem 2.4rem;
+  padding: 2.4rem 3.2rem;
   background-color: #095c43;
-  font-size: 2rem;
+  font-size: 4rem;
   font-family: inherit;
-  line-height: 1.5;
+  line-height: 1.2;
   color: #eee;
   cursor: pointer;
 }

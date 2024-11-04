@@ -1,4 +1,26 @@
 /**************************/
+/* BELOW 1064px (Phones) */
+/**************************/
+@media (max-width: 62em) {
+  .container {
+    max-width: 130rem;
+    padding: 6.4rem 4.8rem 4.8rem 4.8rem;
+    margin: 0 auto;
+  }
+  .primary-heading {
+    margin-bottom: 4.8rem;
+    font-size: 6.4rem;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  .btn {
+    padding: 1.2rem 2.4rem;
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+}
+
+/**************************/
 /* BELOW 544px (Phones) */
 /**************************/
 
